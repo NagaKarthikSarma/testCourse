@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\AD42746\eclipse_works\A_Hydrogen_RestAssured"/>
 			<item value="C:\Users\AD42746\eclipse_works\ZZ_RestAssured"/>
 			<item value="C:\Users\AD42746\eclipse_works\SpringSecAuth"/>
 		</list>
@@ -27,22 +28,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.karthik.org.E_Lithium_standalon"/>
-			<item value="com.karthik.org.C_Lithium_standalone"/>
-			<item value="com.karthik.org.Z_restAssured"/>
-			<item value="com.karthik.A_Hydrogen_RestAssured"/>
-			<item value="com.karthik.FIrstMaven"/>
 		</list>
 		<list key="groupId">
-			<item value="com.karthik.org"/>
-			<item value="com.karthik"/>
 		</list>
 		<list key="artifactId">
-			<item value="E-Lithium_standalon"/>
-			<item value="C_Lithium_standalone"/>
-			<item value="Z_restAssured"/>
-			<item value="A_Hydrogen_RestAssured"/>
-			<item value="FIrstMaven"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
