@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;com.karthik.org.Z_restAssured.GettingGLMID.getDuplicateAddress()&apos; to &apos;AddressValidate&apos;&#x0D;&#x0A;- Original project: &apos;Z_restAssured&apos;&#x0D;&#x0A;- Original element: &apos;com.karthik.org.Z_restAssured.GettingGLMID.getDuplicateAddress()&apos;&#x0D;&#x0A;- Renamed element: &apos;com.karthik.org.Z_restAssured.GettingGLMID.AddressValidate()&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;getDuplicateAddress&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.method" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.karthik.org.Z_restAssured{GettingGLMID.java[GettingGLMID~getDuplicateAddress" name="AddressValidate" references="true" stamp="1728696829040" version="1.0"/>
+</session>

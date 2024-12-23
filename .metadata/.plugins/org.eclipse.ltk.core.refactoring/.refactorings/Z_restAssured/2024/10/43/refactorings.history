@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;App.java&apos; to &apos;com.karthik.table.TablePrinter.java&apos;&#x0D;&#x0A;- Original project: &apos;Z_restAssured&apos;&#x0D;&#x0A;- Destination element: &apos;com.karthik.table.TablePrinter.java&apos;&#x0D;&#x0A;- Original element: &apos;com.karthik.org.Z_restAssured.App.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.karthik.table{TablePrinter.java" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.karthik.org.Z_restAssured{App.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1729956408166" units="1" version="1.0"/>
+</session>

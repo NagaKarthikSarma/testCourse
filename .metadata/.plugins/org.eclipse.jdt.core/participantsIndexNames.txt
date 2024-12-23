@@ -1,0 +1,15 @@
+INDEX VERSION 1.134
+C:\Users\AD42746\eclipse_works\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3295967335.index
+\OAuthClient\src\main\java
+C:\Users\AD42746\eclipse_works\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\849411730.index
+\ZZZ_F_Berylium_springsecurityproject\src\main\java
+C:\Users\AD42746\eclipse_works\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\808980003.index
+\ZZZ_F_Berylium_springsecurityproject\src\main\java
+C:\Users\AD42746\eclipse_works\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3603755804.index
+\B_Helium_SpringBoot\src\main\java
+C:\Users\AD42746\eclipse_works\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2636374851.index
+\ZZ_RestAssured\target\generated-sources\annotations
+C:\Users\AD42746\eclipse_works\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\522835182.index
+\FIrstMaven\src\main\java
+C:\Users\AD42746\eclipse_works\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2879929517.index
+\SpringSecAuth\src\main\java

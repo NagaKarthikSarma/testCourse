@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;B_testGLM.GettingGLMID&apos; to &apos;GettingGLMIDFinal&apos;&#x0D;&#x0A;- Original project: &apos;Z_restAssured&apos;&#x0D;&#x0A;- Original element: &apos;B_testGLM.GettingGLMID&apos;&#x0D;&#x0A;- Renamed element: &apos;B_testGLM.GettingGLMIDFinal&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;GettingGLMID&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;B_testGLM{GettingGLMID.java[GettingGLMID" matchStrategy="1" name="GettingGLMIDFinal" qualified="false" references="true" similarDeclarations="false" stamp="1734659545492" textual="false" version="1.0"/>
+</session>
